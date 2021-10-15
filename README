@@ -1,0 +1,16 @@
+En este proyecto guardamos información aeronáutica que extraemos de las publicaciones de ANAC.
+
+La intención es contar con información que se encuentra en archivos PDF en un formatos tabular y transformando sus datos para poder utilizar la información de geolocalización.
+
+Esta información resulta muy útil para diferentes procesos análiticos, por ejemplo el análisis de los planes de vuelo.
+
+Información disponible para PUNTOS SIGNIFICATIVOS:
+
+AMDT AIRAC 4/2021 - DEPARTAMENTO DE INFORMACIÓN AERONÁUTICA - ANAC
+Disponible en: http://ais.anac.gov.ar/descarga/aip-61396fa6620d4
+Consultado por última vez: 15/10/2021
+
+
+Radioayudas en ruta:
+Disponible en: http://ais.anac.gov.ar/descarga/aip-6082293ea946b
+Consultado por última vez: 15/10/2021
