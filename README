@@ -10,6 +10,15 @@ AMDT AIRAC 4/2021 - DEPARTAMENTO DE INFORMACIÓN AERONÁUTICA - ANAC
 Disponible en: http://ais.anac.gov.ar/descarga/aip-61396fa6620d4
 Consultado por última vez: 15/10/2021
 
+Las columnas disponibles en la tabla de puntos significativos son;
+"puntos_significativos"; Nombre del punto sinificativo
+"coordenadas"; coordenada formato OACI
+"lat"; latitud decimal
+"long"; longitud decimal
+"ubicacion"; descripción de la ubicación
+
+NOTA: Notamos un error en el punto significativo NAXEX en el PDF.
+
 
 Radioayudas en ruta:
 Disponible en: http://ais.anac.gov.ar/descarga/aip-6082293ea946b
